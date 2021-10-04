@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there. I'm Daniel Barreto  👋
 
-<!--
-**dani09barreto/dani09barreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineer Student at Pontificia Universidad Javeriana..
 
-Here are some ideas to get you started:
+Today:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I'm currently studying at Pontificia Universidad Javeriana
+- 🧰 I use daily: `.c`, `.c++` and `.java`
+- 🌱 I’m currently learning **Linux and Linux Kernel**
+- 💬 Ask me about `.c++`
+- 📫 How to reach me: [twitter.com/DanielF29865826](https://twitter.com/DanielF29865826)
+- 😄 Pronouns: Dani
+- ⚡ Fun fact: I'm a programming monitor in c ++
